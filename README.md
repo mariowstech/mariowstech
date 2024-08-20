@@ -1,6 +1,7 @@
 # 𝖒𝖆𝖗𝖎𝖔𝖜𝖘𝖙𝖊𝖈𝖍
 
-![Untitled](https://github.com/user-attachments/assets/ace7766f-c527-4774-9d38-496bc4e79eb6)
+![icegif-1513](https://github.com/user-attachments/assets/4a034592-5e24-4245-8198-5bbf90f51053)
+
 
 
 What's good? Welcome to my profile!
