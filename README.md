@@ -1,5 +1,14 @@
 # welcome to my profile!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mariowstech)](https://git.io/streak-stats)
+[![banner](banner.png)]
 
-## [Website](https://mariowstech.github.io)
+What's good? Welcome to my profile!
+
+- 🇮🇹 I'm from Italy!
+- 📝 I know C, Java, JS, CSS and HTML.
+- ❤️ I'm a very friendly person!
+- 🎂 26/12
+
+  If you want my discord is @mariowstech
+
+## [My stuff](https://mariowstech.github.io)
