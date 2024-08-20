@@ -1,6 +1,7 @@
 # 𝖒𝖆𝖗𝖎𝖔𝖜𝖘𝖙𝖊𝖈𝖍
 
-[![banner](![Untitled](https://github.com/user-attachments/assets/c7151013-9f3a-41b2-921e-7199b09580cd))]
+![Untitled](https://github.com/user-attachments/assets/ace7766f-c527-4774-9d38-496bc4e79eb6)
+
 
 What's good? Welcome to my profile!
 
