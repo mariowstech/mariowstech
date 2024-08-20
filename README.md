@@ -1,4 +1,4 @@
-# welcome to my profile!
+# 𝖒𝖆𝖗𝖎𝖔𝖜𝖘𝖙𝖊𝖈𝖍
 
 [![banner](banner.png)]
 
@@ -9,6 +9,6 @@ What's good? Welcome to my profile!
 - ❤️ I'm a very friendly person!
 - 🎂 26/12
 
-  If you want my discord is @mariowstech
+  If you want, my discord is @mariowstech.
 
 ## [My stuff](https://mariowstech.github.io)
