@@ -1,12 +1,8 @@
 # 𝖒𝖆𝖗𝖎𝖔𝖜𝖘𝖙𝖊𝖈𝖍
 
-What's good? Welcome to my profile!
+i do stuff | mariowOS owner | netadmin
 
-- 🇮🇹 I'm from Italy!
-- 📝 I know C, Java, JS, CSS and HTML.
-- ❤️ I'm a very friendly person!
-- 🎂 26/12
+## [mariowOS](https://github.com/mariowOS/)
 
-  If you want, my discord is @mariowstech.
+[Website](https://mariowstech.github.io) 
 
-## [My stuff](https://mariowstech.github.io)
